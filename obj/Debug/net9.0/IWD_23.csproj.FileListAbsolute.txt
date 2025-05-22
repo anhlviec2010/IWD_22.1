@@ -1,0 +1,14 @@
+d:\NVT\IWD_23\bin\Debug\net9.0\IWD_23.exe
+D:\NVT\IWD_23\bin\Debug\net9.0\IWD_23.deps.json
+D:\NVT\IWD_23\bin\Debug\net9.0\IWD_23.runtimeconfig.json
+d:\NVT\IWD_23\bin\Debug\net9.0\IWD_23.dll
+d:\NVT\IWD_23\bin\Debug\net9.0\IWD_23.pdb
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.GeneratedMSBuildEditorConfig.editorconfig
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.AssemblyInfoInputs.cache
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.AssemblyInfo.cs
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.csproj.CoreCompileInputs.cache
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.dll
+d:\NVT\IWD_23\obj\Debug\net9.0\refint\IWD_23.dll
+d:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.pdb
+D:\NVT\IWD_23\obj\Debug\net9.0\IWD_23.genruntimeconfig.cache
+D:\NVT\IWD_23\obj\Debug\net9.0\ref\IWD_23.dll
